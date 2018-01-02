@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceSolution", "TEST2\FaceSolution.csproj", "{ACB95AB5-938E-42FD-BF4E-4670C63CD545}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stepon.FaceRecognizationCore", "Stepon.FaceRecognizationCore\Stepon.FaceRecognizationCore.csproj", "{5BE6C1E4-AA71-4044-8287-5D296501AC2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{ACB95AB5-938E-42FD-BF4E-4670C63CD545}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACB95AB5-938E-42FD-BF4E-4670C63CD545}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACB95AB5-938E-42FD-BF4E-4670C63CD545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BE6C1E4-AA71-4044-8287-5D296501AC2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE6C1E4-AA71-4044-8287-5D296501AC2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE6C1E4-AA71-4044-8287-5D296501AC2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE6C1E4-AA71-4044-8287-5D296501AC2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
